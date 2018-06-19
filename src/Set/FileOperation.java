@@ -8,7 +8,7 @@ import java.io.File;
 import java.io.BufferedInputStream;
 import java.io.IOException;
 
-// 文件相关操作
+// 文件操作
 public class FileOperation {
 
     // 读取文件名称为filename中的内容，并将其中包含的所有词语放进words中
